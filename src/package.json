@@ -1,6 +1,27 @@
 {
   "name": "nativescript-mdc-lib",
   "version": "1.0.0",
+  "description": "Material Components plugin for NativeScript",
+  "author": "Enrico de Klerk",
+  "license" : "MIT",
+  "homepage": "https://github.com/enricodk/nativescript-mdc-lib",
+  "readmeFilename": "README.md",
+
+  "keywords": [
+    "native",
+    "nativescript",
+    "nativescript-plugin",
+    "mdc",
+    "material",
+    "material-design",
+    "ios"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enricodk/nativescript-mdc-lib.git"
+  },
+
   "nativescript": {
     "platforms": {
       "ios": "4.0.0"
